@@ -1,0 +1,14 @@
+{
+	"id": "75129840-6d52-4eaa-80d6-5c16c2d132cd",
+	"values": [
+		{
+			"key": "sysid",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"name": "APITesting  Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2022-10-19T13:46:59.107Z",
+	"_postman_exported_using": "Postman/8.12.5"
+}
